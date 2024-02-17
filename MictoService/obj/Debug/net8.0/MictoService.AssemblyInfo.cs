@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MictoService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6a97dc9df4ef9c0382bd6d731b2d1a5ec24330f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5387a0c3d625ab7e72b9eea2ad805f1c9cddf026")]
 [assembly: System.Reflection.AssemblyProductAttribute("MictoService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MictoService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
