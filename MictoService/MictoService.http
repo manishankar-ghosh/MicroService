@@ -1,6 +1,0 @@
-@MictoService_HostAddress = http://localhost:5106
-
-GET {{MictoService_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
