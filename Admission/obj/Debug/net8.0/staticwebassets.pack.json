@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\MS\\MS\\Code\\C#\\.netCore\\WebApi\\MicroService\\Admission\\wwwroot\\Scripts\\index.js",
+      "PackagePath": "staticwebassets\\Scripts\\index.js"
+    },
+    {
+      "Id": "C:\\MS\\MS\\Code\\C#\\.netCore\\WebApi\\MicroService\\Admission\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Admission.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Admission.props",
+      "PackagePath": "build\\Admission.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Admission.props",
+      "PackagePath": "buildMultiTargeting\\Admission.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Admission.props",
+      "PackagePath": "buildTransitive\\Admission.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
